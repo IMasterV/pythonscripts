@@ -329,3 +329,6 @@ if connectmodbusascii:
 
 print('Результат обмена по Modbus ASCII')
 print('Количество ошибок записи сетевых настроек с помощью APLY: ' + str(counterrorAply))
+
+
+print('new commit in main')
