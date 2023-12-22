@@ -334,3 +334,5 @@ print('Количество ошибок записи сетевых настр�
 print('new commit in main')
 
 print('hello world!')
+
+print('I have to deal with git')
